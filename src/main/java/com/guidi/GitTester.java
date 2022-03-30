@@ -6,5 +6,6 @@ package com.guidi;
  */
 public class GitTester {
     public static void main(String[] args) {
+        System.out.println("hello git2");
     }
 }
