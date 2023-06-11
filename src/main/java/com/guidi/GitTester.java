@@ -13,5 +13,6 @@ public class GitTester {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("master add 1");
+        System.out.println("f add 1");
     }
 }
