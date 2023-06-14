@@ -17,5 +17,6 @@ public class GitTester {
         System.out.println("f add 1");
         System.out.println("m add 3");
         System.out.println("m add 4");
+        System.out.println("m add 5");
     }
 }
