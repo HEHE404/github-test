@@ -8,5 +8,6 @@ public class RealeaseTest {
     public static void main(String[] args) {
         System.out.println("r first commit");
         System.out.println("r c 2");
+        System.out.println("r c 3");
     }
 }
